@@ -14,7 +14,7 @@ The following resources were used to complete this analysis:
 ### Analysis Overview
 Temperature information for both the months of June and December for the years between 2010 and 2017 was queried.  The information was then uploaded into a dataframe in Jupyter Notebook where summary statistics could be run.  Following are the results of both analyses.
 
-![june_temp_stats](june_temp_stats.png)
+![june_temp_stats](https://github.com/adbauer06/surfs_up/blob/main/june_temp_stats.PNG)
 
 ![december_temp_stats](https://github.com/adbauer06/surfs_up/blob/main/december_temp_stats.PNG)
 
