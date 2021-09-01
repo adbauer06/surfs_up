@@ -16,7 +16,7 @@ Temperature information for both the months of June and December for the years b
 
 ![june_temp_stats](june_temp_stats.png)
 
-![december_temp_stats](december_temp_stats.png)
+![december_temp_stats](https://github.com/adbauer06/surfs_up/blob/main/december_temp_stats.PNG)
 
 ### Analysis Results 
 - Both summaries were taken from a good size sample of data of 1517 and 1700 temperature readings, spanning 7 years.
