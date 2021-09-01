@@ -39,7 +39,7 @@ Overall, there is not an extremely large difference between temperature data in 
     session.query(extract('day',Measurement.date), Measurement.tobs).filter(extract('month',Measurement.date) == 12))
 
 This particular project focused specifically on temperature, but precipitation trends may be worth analyzing also, as they can possibly have an impact on temperature trends.
-- For example, the query can be modified to bring back precip info rather than temps
-    session.query(Measurement.date, Measurement.prcp).filter(extract('month',Measurement.date) == 12)
+- For example, the query can be modified to bring back precip info rather than temps:
+    - session.query(Measurement.date, Measurement.prcp).filter(extract('month',Measurement.date) == 12)
 
 
